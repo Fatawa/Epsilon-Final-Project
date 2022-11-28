@@ -4,14 +4,24 @@ the energy consumption of this industery(KWh)
 
 ## Attribute Information:
 
-Data Variables Type Measurement
-Industry Energy Consumption Continuous kWh
-Lagging Current reactive power Continuous kVarh
-Leading Current reactive power Continuous kVarh
-tCO2(CO2) Continuous ppm
-Lagging Current power factor Continuous %
-Leading Current Power factor Continuous %
-Number of Seconds from midnight Continuous S
-Week status Categorical (Weekend (0) or a Weekday(1))
-Day of week Categorical Sunday, Monday â€¦. Saturday
-Load Type Categorical Light Load, Medium Load, Maximum Load
+1.Data Variables Type Measurement
+
+2.Industry Energy Consumption Continuous kWh
+
+3.Lagging Current reactive power Continuous kVarh
+
+4.Leading Current reactive power Continuous kVarh
+
+5.tCO2(CO2) Continuous ppm
+
+6.Lagging Current power factor Continuous %
+
+7.Leading Current Power factor Continuous %
+
+8.Number of Seconds from midnight Continuous S
+
+9.Week status Categorical (Weekend (0) or a Weekday(1))
+
+10.Day of week Categorical Sunday, Monday â€¦. Saturday
+
+11.Load Type Categorical Light Load, Medium Load, Maximum Load
